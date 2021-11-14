@@ -18,3 +18,6 @@
 
 PRODUCT_MAKEFILES := \
      $(LOCAL_DIR)/omni_a02.mk
+COMMON_LUNCH_CHOICES := \
+    omni_a02-eng \
+    omni_a02-userdebug
